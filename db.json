@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "title": "The Wheel of Time",
+      "Author": "Robert Jordan",
+      "cost": "$30.00",
+      "id": 1
+    },
+    {
+      "title": "The Great Hunt",
+      "Author": "Robert Jordan",
+      "cost": "$25.00",
+      "id": 2
+    }
+  ]
+}
